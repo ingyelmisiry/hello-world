@@ -1,3 +1,3 @@
 # hello-world
 My first repository on GitHub
-I like pizze
+I like pizza
