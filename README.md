@@ -4,3 +4,4 @@ My first repository on GitHub
 Hiii Ingy
 Hii Nohaaa hehehehehe
 Ingy Ayman
+git init
